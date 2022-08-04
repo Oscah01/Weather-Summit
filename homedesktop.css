@@ -166,6 +166,7 @@
     border: 3px solid rgba(255, 255, 255, 0.4);
     padding: 0.8rem;
     z-index: 5;
+    margin-left: 20rem;
   }
 
   .date-details {
@@ -174,7 +175,8 @@
     color: rgba(0, 0, 0, 0.6);
     z-index: 5;
     align-self: flex-start;
-    margin-left: 21.7rem;
+    margin-left: 43rem;
+    
   }
 
   .divider {
@@ -189,7 +191,7 @@
     font-size: 1.4rem;
     align-self: flex-start;
     z-index: 5;
-    margin-left: 21.7rem;
+    margin-left: 43rem;
   }
 
   /* about section */
