@@ -37,16 +37,16 @@
 
   .nav-before {
     position: fixed;
-    left: 0;
+    right: 0;
     display: flex;
-    justify-content: center;
+    justify-content: flex-end;
     gap: 4rem;
     align-items: center;
     background-color: #272a31;
     height: 5vh;
     z-index: 10;
     width: 100vw;
-    padding-left: 30rem;
+    padding-right: 10px;
   }
 
   .nav-before li:nth-of-type(1) {

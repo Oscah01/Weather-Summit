@@ -280,6 +280,12 @@
     filter: grayscale(var(--value, 100%));
   }
 
+  .logo {
+    height: 5rem;
+    width: 18rem;
+    padding: 1rem;
+  }
+
   /* speakers */
 
   .name {
