@@ -37,8 +37,8 @@
   }
 
   .footer-info img {
-    width: 20rem;
-    height: 7rem;
+    width: 18rem;
+    height: 5rem;
   }
 
   .footer-info a {
@@ -179,7 +179,7 @@
     height: auto;
     background-color: #272a31;
     display: flex;
-    justify-content: center;
+    justify-content: flex-start;
     gap: 5rem;
     padding: 4rem;
     color: #fff;
