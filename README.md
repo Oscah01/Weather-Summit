@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Capstone project
@@ -69,8 +68,8 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](./LICENSE) licensed.
+This project is [https://github.com/Oscah01/Blockchain-council](MIT./LICENSE) licensed.
 =======
+
 # Capstone Project
 Capstone project in week 5
->>>>>>> main
