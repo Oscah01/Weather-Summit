@@ -34,37 +34,37 @@ menuItem.forEach((link) => {
 const speakers = [
   {
     name: 'Bert Blevins',
-    picture: './icons/a.jpg',
+    picture: './icons/11.jpeg',
     occupation: 'Successful student',
     description: 'Greetings to everyone at Blockchain Council! I recently completed my course on Blockchain from the council. I’m especially impressed with the quality of your content...',
   },
   {
     name: 'Ahmed Yousry AbouElDahab',
-    picture: './icons/b.jpg',
+    picture: './icons/12.jpeg',
     occupation: 'Succesful student',
     description: 'I have to say that the Blockchain Council has some superb video tutorials on multiple topics which are a need of the hour It is challenging to learn..',
   },
   {
     name: 'Fernando Lombos Fernandez',
-    picture: './icons/c.jpg',
+    picture: './icons/13.jpeg',
     occupation: 'Succesful student',
     description: 'Blockchain Council has provided me with some of my greatest skill sets. Being a learning manager, often it’s not easy to guide the team on a new concept..',
   },
   {
     name: 'Inger Andersen',
-    picture: './icons/d.jpg',
+    picture: './icons/14.jpeg',
     occupation: 'Engineering Manager with 13+ years experience...',
     description: 'a succesful lecturer at blockchaincouncil',
   },
   {
     name: 'Bilal Hassan',
-    picture: './icons/e.jpg',
+    picture: './icons/15.jpeg',
     occupation: ' Lead IT Auditor  United Arab Emirates ',
     description: 'Technology Expert Engineer, and Entrepreneur... ',
   },
   {
     name: 'Charles J Harman II',
-    picture: './icons/f.jpg',
+    picture: './icons/16.jpeg',
     occupation: 'Business Analyst  USA',
     description: 'Technology professional for the last 18 years...',
   },
