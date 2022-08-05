@@ -280,9 +280,9 @@
     filter: grayscale(var(--value, 100%));
   }
 
-  .logo {
-    height: 5rem;
-    width: 18rem;
+  .logo2 {
+    height: 7rem;
+    width: 20rem;
     padding: 1rem;
   }
 
