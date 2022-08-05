@@ -37,7 +37,7 @@
 
   .nav-before {
     position: fixed;
-    right: 0;
+    right: 10px;
     display: flex;
     justify-content: flex-end;
     gap: 4rem;
@@ -46,7 +46,7 @@
     height: 5vh;
     z-index: 10;
     width: 100vw;
-    padding-right: 10px;
+    padding-right: 20px;
   }
 
   .nav-before li:nth-of-type(1) {
@@ -69,12 +69,11 @@
     align-items: center;
     justify-content: flex-end;
     padding-right: 12.6rem;
-    left: 0;
+    right: 10px;
     background-color: rgba(255, 255, 255, 1);
     width: 100vw;
     position: fixed;
     top: 5vh;
-    z-index: 10;
   }
 
   .desktop-menu-links a {
@@ -99,8 +98,8 @@
   }
 
   #nav-logo {
-    width: 20rem;
-    height: 7rem;
+    width: 15rem;
+    height: 5rem;
     margin-right: 19rem;
   }
 
@@ -121,7 +120,6 @@
     height: 15rem;
     position: absolute;
     z-index: 1;
-    background-image: url(./images/bg3.png);
     background-size: contain;
     top: 57%;
     left: 50%;
@@ -138,47 +136,41 @@
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     letter-spacing: 0.4rem;
-    z-index: 5;
     display: flex;
     flex-direction: column;
-    align-items: flex-start;
-    justify-content: center;
-    padding-right: 27rem;
-    padding-top: 15rem;
+    margin-right: 400px;
+    width: 60%;
   }
 
   #intro {
     font-family: 'Lato', sans-serif;
     -webkit-text-fill-color: #ec5242;
-    background-image: none;
     letter-spacing: 0.4rem;
-    z-index: 5;
     font-size: 2.5rem;
-    margin-bottom: 0;
     font-weight: 600;
+    margin-right: 400px;
+    width: 60%;
   }
 
   .summit-description {
     font-size: 1.6rem;
-    margin-right: 27vw;
-    width: 39%;
-    background-color: rgb(246, 246, 246);
-    border: 3px solid rgba(255, 255, 255, 0.4);
-    padding: 0.8rem;
-    z-index: 5;
-    margin-left: 20rem;
+    margin-right: 400px;
+    width: 60%;
+    height: 10px;
+    border: 10px solid rgba(255, 255, 255, 0.4);
+    margin-top: -30px;
   }
 
   .date-details {
+    margin-right: 400px;
     font-size: 2rem;
     font-family: "COCOGOOSE", sans-serif;
     color: rgba(0, 0, 0, 0.6);
-    z-index: 5;
-    align-self: flex-start;
-    margin-left: 43rem;
+    width: 60%;
   }
 
   .divider {
+    margin-right: 400px;
     background-color: #ec5242;
     width: 3%;
     margin-bottom: auto;
@@ -186,11 +178,10 @@
   }
 
   .venue {
+    margin-right: 400px;
     font-family: 'Lato', sans-serif;
     font-size: 1.4rem;
-    align-self: flex-start;
-    z-index: 5;
-    margin-left: 43rem;
+    width: 60%;
   }
 
   /* about section */
@@ -226,7 +217,7 @@
     margin: 0 0.2rem;
     background-color: rgba(211, 211, 211, 0.2);
     height: 21rem;
-    width: 25%;
+    width: 35%;
   }
 
   .activity:hover {
@@ -234,8 +225,8 @@
   }
 
   .activity img {
-    width: 100%;
-    height: 12.5rem;
+    width: 20%;
+    height: 5rem;
   }
 
   .about-header,
@@ -250,20 +241,22 @@
     justify-content: center;
     width: auto;
     font-size: 1.3rem;
-    padding: 0 0.8rem;
-    height: 8rem;
+    margin-top: 2px;
+    padding: 2px 0 0 8px;
   }
 
   .activity-name {
     color: #ec5242;
     font-size: 2rem;
     width: auto;
-    height: 4rem;
+    height: 2px;
   }
 
   #dt-btn a {
     color: #fff;
     font-size: 1rem;
+    text-decoration: none;
+    margin-left: 50%;
   }
 
   .partners {
@@ -314,7 +307,7 @@
     justify-content: flex-start;
     gap: 5rem;
     padding: 4rem;
-    margin-left: 28vw;
+    margin-left: 2vw;
   }
 
   .footer-info small {
@@ -407,5 +400,11 @@
     font-weight: bold;
     font-size: 2rem;
     align-self: center;
+  }
+
+  .logo2 {
+    align-items: flex-start;
+    width: 15rem;
+    height: 5rem;
   }
 }
