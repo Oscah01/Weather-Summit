@@ -156,12 +156,13 @@
     font-size: 1.6rem;
     margin-right: 400px;
     width: 60%;
-    height: 10px;
+    height: 30px;
     border: 10px solid rgba(255, 255, 255, 0.4);
-    margin-top: -30px;
+   
   }
 
   .date-details {
+    height: 30px;
     margin-right: 400px;
     font-size: 2rem;
     font-family: "COCOGOOSE", sans-serif;
