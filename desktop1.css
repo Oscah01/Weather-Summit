@@ -179,7 +179,7 @@
     height: auto;
     background-color: #272a31;
     display: flex;
-    justify-content: flex-start;
+    justify-content: center;
     gap: 5rem;
     padding: 4rem;
     color: #fff;
